@@ -1,0 +1,13 @@
+{
+    "welcome": "مرحباً بكم في موقعنا",
+    "language": "اللغة",
+    "menu": {
+        "home": "الرئيسية",
+        "about": "من نحن",
+        "contact": "اتصل بنا"
+    },
+    "permitApplications": "طلبات التصاريح",
+    "applyNow": "قدّم الآن",
+    "search": "بحث",
+    "login": "تسجيل الدخول"
+}

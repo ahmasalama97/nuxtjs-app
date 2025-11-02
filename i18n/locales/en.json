@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to our website",
+    "language": "Language",
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "permitApplications": "Permit Applications",
+    "applyNow": "Apply Now",
+    "search": "Search",
+    "login": "Login"
+}
